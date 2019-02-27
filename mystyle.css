@@ -10,3 +10,6 @@ li, p, h2{
 	font-family: Verdana;
 	color:#262626;
 }
+a:visited{ color:white; }
+a:hover{ color: #4d4d4d; }
+a:link{ color: #993366; }
